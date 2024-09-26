@@ -70,7 +70,7 @@ public class KhachHang {
     //sinh viên cài đặt xử lý cho các phương thức sau    
     public double getTieuThu()
     {
-       return 0; 
+       return Chisomoi -Chisocu; 
     }
    
     public double getTienTra()
